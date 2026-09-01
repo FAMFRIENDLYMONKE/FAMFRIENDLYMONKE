@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ZCertify<br>🌱 I’m currently learning Data Structures and Algorithms.<br>💬 Ask me about anything Full-Stack<br>⚡ Fun fact : Sometimes I like to think too.
+🔭 working on ZCertify<br>🌱  learning Data Structures and Algorithms.<br>💬 Ask me about anything Full-Stack<br>⚡ Fun fact : Sometimes I like to think too.
 
 
 ## 🌐 Socials:
